@@ -364,8 +364,8 @@ function App() {
       .to(aboutRef.current, {
         y: 290,
         autoAlpha: 0,
-        duration: 1.2, // Very fast fade for the button
-        ease: "power3.out"
+        duration: 0.6, // Very fast fade for the button
+        ease: "power2.in"
       }, 0)
       .to([leftTextRef.current, rightImageRef.current,], {
         x: -90,
