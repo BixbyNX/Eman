@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Eman/static/css/main.003dda39.css",
-    "main.js": "/Eman/static/js/main.e8193a8e.js",
+    "main.js": "/Eman/static/js/main.bc579915.js",
     "static/js/453.6264690d.chunk.js": "/Eman/static/js/453.6264690d.chunk.js",
     "index.html": "/Eman/index.html",
     "static/media/UtahCondensed-Bold.ttf": "/Eman/static/media/UtahCondensed-Bold.31d6cfe0d16ae931b73c.ttf",
     "main.003dda39.css.map": "/Eman/static/css/main.003dda39.css.map",
-    "main.e8193a8e.js.map": "/Eman/static/js/main.e8193a8e.js.map",
+    "main.bc579915.js.map": "/Eman/static/js/main.bc579915.js.map",
     "453.6264690d.chunk.js.map": "/Eman/static/js/453.6264690d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.003dda39.css",
-    "static/js/main.e8193a8e.js"
+    "static/js/main.bc579915.js"
   ]
 }
