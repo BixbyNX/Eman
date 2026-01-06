@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/Eman/static/css/main.dc394a2d.css",
-    "main.js": "/Eman/static/js/main.8e261db2.js",
+    "main.css": "/Eman/static/css/main.cd075780.css",
+    "main.js": "/Eman/static/js/main.7ccf4461.js",
     "static/js/453.6264690d.chunk.js": "/Eman/static/js/453.6264690d.chunk.js",
     "static/media/propaylz.png": "/Eman/static/media/propaylz.ef419fe31bfdd28860bb.png",
     "static/media/ohpi.png": "/Eman/static/media/ohpi.6262d6cfc414268b8a71.png",
     "static/media/Meee.png": "/Eman/static/media/Meee.20871f1a27477abc50eb.png",
-    "static/media/message.png": "/Eman/static/media/message.bd92238186b2b6ae309f.png",
+    "static/media/messaging.png": "/Eman/static/media/messaging.56a234c985b53c55e6d7.png",
+    "static/media/ictinvent.png": "/Eman/static/media/ictinvent.d1b7076c037ad2b84662.png",
     "index.html": "/Eman/index.html",
     "static/media/UtahCondensed-Bold.ttf": "/Eman/static/media/UtahCondensed-Bold.31d6cfe0d16ae931b73c.ttf",
-    "main.dc394a2d.css.map": "/Eman/static/css/main.dc394a2d.css.map",
-    "main.8e261db2.js.map": "/Eman/static/js/main.8e261db2.js.map",
+    "main.cd075780.css.map": "/Eman/static/css/main.cd075780.css.map",
+    "main.7ccf4461.js.map": "/Eman/static/js/main.7ccf4461.js.map",
     "453.6264690d.chunk.js.map": "/Eman/static/js/453.6264690d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc394a2d.css",
-    "static/js/main.8e261db2.js"
+    "static/css/main.cd075780.css",
+    "static/js/main.7ccf4461.js"
   ]
 }
