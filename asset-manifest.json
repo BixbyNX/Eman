@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Eman/static/css/main.2e1e139a.css",
-    "main.js": "/Eman/static/js/main.0a918a01.js",
+    "main.css": "/Eman/static/css/main.e4017bcc.css",
+    "main.js": "/Eman/static/js/main.0f6c214a.js",
     "static/js/453.6264690d.chunk.js": "/Eman/static/js/453.6264690d.chunk.js",
+    "static/media/cybernews.mp4": "/Eman/static/media/cybernews.35ba49a84e51e97780ac.mp4",
     "static/media/inventory.mp4": "/Eman/static/media/inventory.6e27a4be08e52b4fc5fd.mp4",
+    "static/media/messaging.mp4": "/Eman/static/media/messaging.bd086afd52ccb65a00f9.mp4",
     "static/media/orient.mp4": "/Eman/static/media/orient.98db8b60082341327977.mp4",
-    "static/media/Messaging.webm": "/Eman/static/media/Messaging.c2b8b312d00cc54df14f.webm",
     "static/media/propaylz.png": "/Eman/static/media/propaylz.ef419fe31bfdd28860bb.png",
-    "static/media/Employee.mp4": "/Eman/static/media/Employee.aff97cc84bdcbb651afc.mp4",
-    "static/media/Program_Camille.jpg": "/Eman/static/media/Program_Camille.69d4af73dde428075817.jpg",
     "static/media/ohpi.png": "/Eman/static/media/ohpi.6262d6cfc414268b8a71.png",
     "static/media/messaging.png": "/Eman/static/media/messaging.56a234c985b53c55e6d7.png",
+    "static/media/news.png": "/Eman/static/media/news.ff2bc69b21da6d3d78ce.png",
     "static/media/ictinvent.png": "/Eman/static/media/ictinvent.d1b7076c037ad2b84662.png",
     "index.html": "/Eman/index.html",
     "static/media/UtahCondensed-Bold.ttf": "/Eman/static/media/UtahCondensed-Bold.31d6cfe0d16ae931b73c.ttf",
-    "main.2e1e139a.css.map": "/Eman/static/css/main.2e1e139a.css.map",
-    "main.0a918a01.js.map": "/Eman/static/js/main.0a918a01.js.map",
+    "main.e4017bcc.css.map": "/Eman/static/css/main.e4017bcc.css.map",
+    "main.0f6c214a.js.map": "/Eman/static/js/main.0f6c214a.js.map",
     "453.6264690d.chunk.js.map": "/Eman/static/js/453.6264690d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e1e139a.css",
-    "static/js/main.0a918a01.js"
+    "static/css/main.e4017bcc.css",
+    "static/js/main.0f6c214a.js"
   ]
 }
