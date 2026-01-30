@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Eman/static/css/main.66c65784.css",
-    "main.js": "/Eman/static/js/main.946d84ed.js",
+    "main.js": "/Eman/static/js/main.c4149821.js",
     "static/js/453.6264690d.chunk.js": "/Eman/static/js/453.6264690d.chunk.js",
     "static/media/cybernews.mp4": "/Eman/static/media/cybernews.35ba49a84e51e97780ac.mp4",
     "static/media/inventory.mp4": "/Eman/static/media/inventory.6e27a4be08e52b4fc5fd.mp4",
@@ -15,11 +15,11 @@
     "index.html": "/Eman/index.html",
     "static/media/UtahCondensed-Bold.ttf": "/Eman/static/media/UtahCondensed-Bold.31d6cfe0d16ae931b73c.ttf",
     "main.66c65784.css.map": "/Eman/static/css/main.66c65784.css.map",
-    "main.946d84ed.js.map": "/Eman/static/js/main.946d84ed.js.map",
+    "main.c4149821.js.map": "/Eman/static/js/main.c4149821.js.map",
     "453.6264690d.chunk.js.map": "/Eman/static/js/453.6264690d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66c65784.css",
-    "static/js/main.946d84ed.js"
+    "static/js/main.c4149821.js"
   ]
 }
