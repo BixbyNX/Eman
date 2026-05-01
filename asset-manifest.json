@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Eman/static/css/main.66c65784.css",
-    "main.js": "/Eman/static/js/main.7f748651.js",
+    "main.js": "/Eman/static/js/main.8b1f72ee.js",
     "static/js/453.6264690d.chunk.js": "/Eman/static/js/453.6264690d.chunk.js",
     "static/media/cybernews.mp4": "/Eman/static/media/cybernews.35ba49a84e51e97780ac.mp4",
     "static/media/inventory.mp4": "/Eman/static/media/inventory.6e27a4be08e52b4fc5fd.mp4",
     "static/media/messaging.mp4": "/Eman/static/media/messaging.bd086afd52ccb65a00f9.mp4",
     "static/media/orient.mp4": "/Eman/static/media/orient.98db8b60082341327977.mp4",
-    "static/media/propaylz.png": "/Eman/static/media/propaylz.ef419fe31bfdd28860bb.png",
-    "static/media/ohpi.png": "/Eman/static/media/ohpi.6262d6cfc414268b8a71.png",
-    "static/media/messaging.png": "/Eman/static/media/messaging.56a234c985b53c55e6d7.png",
-    "static/media/news.png": "/Eman/static/media/news.ff2bc69b21da6d3d78ce.png",
+    "static/media/propaylz.jpg": "/Eman/static/media/propaylz.fc8853e47ec33f0fdf87.jpg",
+    "static/media/news.jpg": "/Eman/static/media/news.b798089d43664a253ec4.jpg",
+    "static/media/ohpi.jpg": "/Eman/static/media/ohpi.535091443c458ada9c67.jpg",
+    "static/media/messaging.jpg": "/Eman/static/media/messaging.0e17ac33e034c9b4fda8.jpg",
     "static/media/ictinvent.png": "/Eman/static/media/ictinvent.d1b7076c037ad2b84662.png",
     "index.html": "/Eman/index.html",
     "static/media/UtahCondensed-Bold.ttf": "/Eman/static/media/UtahCondensed-Bold.31d6cfe0d16ae931b73c.ttf",
     "main.66c65784.css.map": "/Eman/static/css/main.66c65784.css.map",
-    "main.7f748651.js.map": "/Eman/static/js/main.7f748651.js.map",
+    "main.8b1f72ee.js.map": "/Eman/static/js/main.8b1f72ee.js.map",
     "453.6264690d.chunk.js.map": "/Eman/static/js/453.6264690d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66c65784.css",
-    "static/js/main.7f748651.js"
+    "static/js/main.8b1f72ee.js"
   ]
 }
